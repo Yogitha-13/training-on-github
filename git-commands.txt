@@ -3,3 +3,5 @@ git status
 git add filename
 git commit -m "message for committing file"
 git push
+
+git pull
