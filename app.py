@@ -1,0 +1,1 @@
+print("starting github and git commands training")
